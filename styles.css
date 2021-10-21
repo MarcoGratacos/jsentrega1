@@ -1,0 +1,13 @@
+div {
+  height: 400px;
+  width: 400px;
+  background-color: aqua;
+  border-radius: 10%;
+}
+
+div h2 {
+  margin-top: 6rem;
+  padding: 2rem;
+  font-size: 14pt;
+}
+/*# sourceMappingURL=styles.css.map */
